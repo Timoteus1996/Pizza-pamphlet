@@ -13,7 +13,7 @@ body {
     width:20em;
     display:inline-block;
     min-height:30em;
-    display:flex
+    /*display:flex*/
 }
 
 .large_pizza{
