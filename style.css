@@ -13,6 +13,7 @@ body {
     width:20em;
     display:inline-block;
     min-height:30em;
+    display:flex
 }
 
 .large_pizza{
@@ -33,3 +34,15 @@ body {
 .contact{
     background-color: #7cb518;
     }
+
+@media(min-width:768px){
+    body{
+        background-color: blue;
+    }
+}
+@media(min-width:960px){
+    body{
+        background-color: blue;
+    }
+
+}
