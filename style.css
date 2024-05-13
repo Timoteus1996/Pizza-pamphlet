@@ -1,10 +1,10 @@
 body {
-    background-color: #1c1369;
+    background-color: #457B9D;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .perfect-pizzas{
-    border:1px solid #7678ed;
+    border:1px solid #F1FAEE;
     padding:1em;
     margin:1em;
     margin-left:0.5em;
@@ -17,7 +17,7 @@ body {
 }
 
 .large_pizza{
-    background-color: #ffb703;
+    background-color: #457B9D;
     flex:2
 }
 
