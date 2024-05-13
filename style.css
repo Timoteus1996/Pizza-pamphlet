@@ -35,7 +35,7 @@ body {
     background-color: #7cb518;
     }
 
-@media(min-width:768px){
+/*@media(min-width:768px){
     body{
         background-color: blue;
     }
@@ -45,4 +45,4 @@ body {
         background-color: blue;
     }
 
-}
+}*/
