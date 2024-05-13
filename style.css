@@ -1,5 +1,5 @@
 body {
-    background-color: #8ecae6;
+    background-color: #023047
 }
 
 .large_pizza{
@@ -7,9 +7,13 @@ body {
 }
 
 .medium_pizza{
-    background-color:#023047 ;
+    background-color:#2a9d8f ;
 }
 
 .small_pizza{
     background-color: #219ebc;
 }
+
+.contact{
+    background-color: #7cb518;
+    }
