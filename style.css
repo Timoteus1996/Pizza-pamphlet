@@ -1,3 +1,15 @@
 body {
     background-color: #3A86FF;
 }
+
+.large_pizza{
+    background-color: #FB5607;
+}
+
+.meduim_pizza{
+    background-color:#FFBE0B ;
+}
+
+.small_pizza{
+    background-color: #FF006E;
+}
